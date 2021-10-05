@@ -1,12 +1,12 @@
-# DX2
+# Bakkar-Legend
 
 
 
-![made in india](https://img.shields.io/badge/MADE%20IN%20-INDIA-green?style=for-the-badge&logo=appveyor)
-![Vivek Chandel](https://img.shields.io/badge/Vivek%20-Chandel-green?style=for-the-badge&logo=appveyor)
+![made in Pakistan](https://img.shields.io/badge/MADE%20IN%20-PAKISTAN-green?style=for-the-badge&logo=appveyor)
+![Abu Bakkarl](https://img.shields.io/badge/Abu%20-Bakkar-red?style=for-the-badge&logo=appveyor)
  
-![GitHub followers](https://img.shields.io/github/followers/MRVIVEK-CODER?style=for-the-badge)
-![Twitter Follow](https://img.shields.io/twitter/follow/vivek_chandel?color=%23ff128c&label=%40VivekXD&style=for-the-badge)
+![GitHub followers](https://img.shields.io/github/followers/Darkrulex?style=for-the-badge)
+![Twitter Follow](https://img.shields.io/twitter/follow/Abu_Bakkar?color=%23ff130c&label=%40BakkarxD&style=for-the-badge)
 
  
 pkg update
@@ -25,39 +25,22 @@ pip2 install mechanize
 
 pip install lolcat
 
-rm -rf DX2
+rm -rf Bakkar-Legend
 
-git clone https://github.com/MRVIVEK-CODER/DX2.git
+git clone https://github.com/Darkrulex/Bakkar-Legend
 
-cd DX2
+cd Bakkar-Legend
 
-python2 DX.so
+python2 Bakkar.py
 
-## Example ##
-
-<p align="center">
- <img src="https://github.com/MRVIVEK-CODER/DX2/blob/main/IMG-20210819-WA0001.jpg" width="640" title="Menu" alt="Menu">
-
-
-
-##MENU##
-
-
-<p align="center">
- <img src="https://github.com/MRVIVEK-CODER/DX2/blob/main/Screenshot_20210609-115721.jpg" width="640" title="Menu" alt="Menu">
- 
-
-### CLONING ###
-
-<p align="center">
- <img src="https://github.com/MRVIVEK-CODER/DX2/blob/main/IMG-20210612-WA0175.jpg" width="640" title="Menu" alt="Menu">
+##0WN3R R4UF 4L1 X B4KK4R##
  
  
 ## WARNING : 
 ***This tool is only for educational purpose. If you use this tool for other purposes except education we will not be responsible in such cases.***
 ## Follows us on social media
 <p align="center">
-<a href="https://fb.com/Vivek.chandel.420"><img title="Facebook" src="https://img.shields.io/badge/Facebook-red?style=for-the-badge&logo=facebook"></a>
-<a href="https://www.instagram.com/hacker_solution_by_vivek"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
-<a href="https://github.com/MRVIVEK-CODER"><img title="Github" src="https://img.shields.io/badge/Github-MRVIVEK--CODER-blue?style=for-the-badge&logo=github"></a>
+<a href="https://fb.com/Raufonfire"><img title="Facebook" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"></a>
+<a href="https://www.instagram.com/hacker_solution"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<a href="https://github.com/Darkrulex"><img title="Github" src="https://img.shields.io/badge/Github-DARK--RUL3X-blue?style=for-the-badge&logo=github"></a>
  
